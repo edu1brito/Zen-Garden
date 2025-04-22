@@ -1,0 +1,33 @@
+.about-us-container {
+    
+    
+     
+    
+   
+  }
+  
+  .about-us-heading {
+    font-size: 10px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-description {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .about-us-content {
+    font-size: 180px;
+    margin-bottom: 20px;
+  }
+  .plant_logo_right{
+    text-align: right;
+  }
+
+  .plant_logo_left{
+    text-align: left;
+  }
