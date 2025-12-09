@@ -63,26 +63,18 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/zen-garden.git
 Acesse a pasta:
 
-bash
-Copiar código
 cd zen-garden
 Instale as dependências:
 
-bash
-Copiar código
 npm install
 Inicie o ambiente de desenvolvimento:
 
-bash
-Copiar código
 npm run dev
+
 Acesse no navegador:
 
-arduino
-Copiar código
 http://localhost:5173
-📸 Preview do Projeto
-(Adicione aqui um print da aplicação depois de rodar o projeto)
+
 
 🧠 Principais aprendizados
 Organização de projetos React com Vite
